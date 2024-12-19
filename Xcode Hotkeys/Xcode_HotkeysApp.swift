@@ -11,7 +11,7 @@ import SwiftUI
 struct Xcode_HotkeysApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainHotkeysView()
         }
     }
 }
